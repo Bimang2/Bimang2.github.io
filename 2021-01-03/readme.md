@@ -1,16 +1,8 @@
-# 제목 1
-## 제목 2
-### 제목 3
-#### 제목 4
-##### 제목 5
-###### 제목 6
+### GitHub Pages 만들기
 
-* 1ab
-* sdlf
-* wjep
-* d
+* New repository를 생성하고 (username).github.io입력 && Create repository 버튼 클릭
 
-** sd**
+** sd **
 ```
 system.println("Hellow World");
 ```
